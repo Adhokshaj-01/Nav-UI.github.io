@@ -55,7 +55,7 @@ html {
 .one {
   width: 100%;
   height: 100vh;
-  background-image: url(/utlis/ok.webp);
+  background-image: url(utlis/ok.webp);
   background-size: cover;
   overflow: hidden;
   box-shadow: -1px 10px 5px -3px rgba(124, 124, 124, 0.55);
