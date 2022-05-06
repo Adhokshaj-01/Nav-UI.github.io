@@ -1,0 +1,37 @@
+@media screen and (max-width: 650px) {
+  .one {
+    background-image: url(/utlis/mobile2.png);
+    background-size: cover;
+    object-fit: cover;
+  }
+}
+@media screen and (max-width: 800px) {
+  .nav-bar {
+    display: none;
+  }
+  .Hamburger {
+    display: block;
+  }
+  .mobile-menu {
+    display: block;
+    z-index: 9999;
+  }
+  .mobile-nav {
+    display: block;
+  }
+  .banner {
+    font-size: 20px;
+  }
+  .write {
+    width: 320px;
+  }
+  .educate {
+    width: 320px;
+  }
+  .input-email {
+    width: 70%;
+  }
+  .data-btn {
+    width: 50%;
+  }
+}
